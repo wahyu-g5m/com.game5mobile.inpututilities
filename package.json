@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.inpututilities",
 	"version": "1.0.0",
-	"displayName": "G5M - Input Utilities",
+	"displayName": "Five - Input Utilities",
 	"description": "Contain some functions for input handling",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
